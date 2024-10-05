@@ -1,0 +1,127 @@
+PlantCARE_2543	CCGTCC-box	CCGTCC	1194	6	+	Petroselinum hortense	
+PlantCARE_2543	CAAT-box	CAAT	163	4	-	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAT	169	4	+	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAAT	176	5	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_2543	CAAT-box	CAAT	222	4	+	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAT	248	4	-	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAAT	299	5	+	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_2543	CAAT-box	CAAT	305	4	-	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAT	513	4	+	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAAT	538	5	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_2543	CAAT-box	CAAT	572	4	+	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAT	596	4	-	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAT	720	4	+	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAT	722	4	-	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAT	869	4	-	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CCAAT	898	5	-	Arabidopsis thaliana	common cis-acting element in promoter and enhancer regions
+PlantCARE_2543	CAAT-box	CCAAT	911	5	+	Arabidopsis thaliana	common cis-acting element in promoter and enhancer regions
+PlantCARE_2543	CAAT-box	CAAT	912	4	+	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAT	1176	4	-	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CCAAT	1223	5	+	Arabidopsis thaliana	common cis-acting element in promoter and enhancer regions
+PlantCARE_2543	CAAT-box	CAAT	1224	4	+	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAT	1313	4	+	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CCAAT	1326	5	+	Arabidopsis thaliana	common cis-acting element in promoter and enhancer regions
+PlantCARE_2543	CAAT-box	CAAT	1327	4	+	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAT	1450	4	+	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAT	1562	4	+	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAAT	1798	5	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_2543	CAAT-box	CCAAT	1839	5	-	Arabidopsis thaliana	common cis-acting element in promoter and enhancer regions
+PlantCARE_2543	CAAT-box	CAAT	1896	4	+	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAT	1898	4	-	Nicotiana glutinosa	
+PlantCARE_2543	CAAT-box	CAAT	1912	4	-	Nicotiana glutinosa	
+PlantCARE_2543	CCGTCC motif	CCGTCC	1194	6	+	Nicotiana tabacum	
+PlantCARE_2543		motif_sequence	36	4	-	organism	short_function
+PlantCARE_2543		motif_sequence	79	4	-	organism	short_function
+PlantCARE_2543		motif_sequence	183	4	+	organism	short_function
+PlantCARE_2543		motif_sequence	281	4	+	organism	short_function
+PlantCARE_2543		motif_sequence	370	4	-	organism	short_function
+PlantCARE_2543		motif_sequence	508	4	+	organism	short_function
+PlantCARE_2543		motif_sequence	534	4	-	organism	short_function
+PlantCARE_2543		motif_sequence	875	4	-	organism	short_function
+PlantCARE_2543		motif_sequence	1008	4	+	organism	short_function
+PlantCARE_2543		motif_sequence	1226	4	+	organism	short_function
+PlantCARE_2543		motif_sequence	1239	4	+	organism	short_function
+PlantCARE_2543		motif_sequence	1403	4	+	organism	short_function
+PlantCARE_2543		motif_sequence	1435	4	+	organism	short_function
+PlantCARE_2543		motif_sequence	1499	4	+	organism	short_function
+PlantCARE_2543		motif_sequence	1552	4	+	organism	short_function
+PlantCARE_2543		motif_sequence	1564	4	+	organism	short_function
+PlantCARE_2543		motif_sequence	1572	4	+	organism	short_function
+PlantCARE_2543		motif_sequence	1595	4	+	organism	short_function
+PlantCARE_2543		motif_sequence	1717	4	+	organism	short_function
+PlantCARE_2543		motif_sequence	1962	4	-	organism	short_function
+PlantCARE_2543		motif_sequence	1966	4	+	organism	short_function
+PlantCARE_2543		motif_sequence	1991	4	+	organism	short_function
+PlantCARE_2543	Box 4	ATTAAT	987	6	+	Petroselinum crispum	part of a conserved DNA module involved in light responsiveness
+PlantCARE_2543	G-box	CACGTC	1232	6	+	Zea mays	cis-acting regulatory element involved in light responsiveness
+PlantCARE_2543	G-box	TACGTG	1969	6	+	Arabidopsis thaliana	cis-acting regulatory element involved in light responsiveness
+PlantCARE_2543	MYB	CAACCA	529	6	-	Arabidopsis thaliana	
+PlantCARE_2543	MYB	CAACCA	580	6	-	Arabidopsis thaliana	
+PlantCARE_2543	MYB	CAACCA	908	6	+	Arabidopsis thaliana	
+PlantCARE_2543	MYB	CAACCA	1323	6	+	Arabidopsis thaliana	
+PlantCARE_2543	MYB	CAACCA	1801	6	-	Arabidopsis thaliana	
+PlantCARE_2543	Unnamed__1	CGTGG	664	5	-	Zea mays	
+PlantCARE_2543	Unnamed__1	CGTGG	1231	5	-	Zea mays	
+PlantCARE_2543	Unnamed__1	CGTGG	1600	5	+	Zea mays	
+PlantCARE_2543	TGACG-motif	TGACG	1408	5	-	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_2543	ERE	ATTTCATA	96	8	+	Nicotiana glutinos	
+PlantCARE_2543	ERE	ATTTCATA	1808	8	-	Nicotiana glutinos	
+PlantCARE_2543	W box	TTGACC	1334	6	+	Arabidopsis thaliana	
+PlantCARE_2543	CAG-motif	GAAAGGCAGAC	1552	10	-	Arabidopsis thaliana	part of a light response element
+PlantCARE_2543	TATA-box	TATA	93	4	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	TATACA	237	6	-	Helianthus annuus	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	TATA	239	4	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	TATAAA	275	6	-	Helianthus annuus	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	TATAA	276	5	-	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	TATA	277	4	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	TACAAAA	616	7	-	Oryza sativa	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	TATAA	634	5	-	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	TATA	635	4	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	TATA	756	4	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	TATACA	1003	6	-	Helianthus annuus	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	TATA	1005	4	-	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	ATATAA	1037	6	+	Brassica oleracea	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	TATA	1038	4	-	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	ATATAT	1062	6	-	Brassica napus	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	TATA	1063	4	-	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	TATTTAAA	1161	8	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_2543	TATA-box	TACAAAA	1923	7	-	Oryza sativa	core promoter element around -30 of transcription start
+PlantCARE_2543	as-1	TGACG	1408	5	-	Arabidopsis thaliana	
+PlantCARE_2543	ABRE	ACGTG	366	5	+	Arabidopsis thaliana	cis-acting element involved in the abscisic acid responsiveness
+PlantCARE_2543	ABRE	ACGTG	1204	5	-	Arabidopsis thaliana	cis-acting element involved in the abscisic acid responsiveness
+PlantCARE_2543	ABRE	ACGTG	1232	5	-	Arabidopsis thaliana	cis-acting element involved in the abscisic acid responsiveness
+PlantCARE_2543	ABRE	CGTACGTGCA	1967	9	+	Hordeum vulgare	cis-acting element involved in the abscisic acid responsiveness
+PlantCARE_2543	ABRE	ACGTG	1970	5	+	Arabidopsis thaliana	cis-acting element involved in the abscisic acid responsiveness
+PlantCARE_2543	TCA-element	CCATCTTTTT	1577	9	+	Nicotiana tabacum	cis-acting element involved in salicylic acid responsiveness
+PlantCARE_2543	Unnamed__4	CTCC	41	4	-	Petroselinum hortense	
+PlantCARE_2543	Unnamed__4	CTCC	79	4	-	Petroselinum hortense	
+PlantCARE_2543	Unnamed__4	CTCC	417	4	-	Petroselinum hortense	
+PlantCARE_2543	Unnamed__4	CTCC	479	4	+	Petroselinum hortense	
+PlantCARE_2543	Unnamed__4	CTCC	1241	4	+	Petroselinum hortense	
+PlantCARE_2543	Unnamed__4	CTCC	1437	4	+	Petroselinum hortense	
+PlantCARE_2543	Unnamed__4	CTCC	1477	4	+	Petroselinum hortense	
+PlantCARE_2543	TC-rich repeats	ATTCTCTAAC	1042	9	-	Nicotiana tabacum	cis-acting element involved in defense and stress responsiveness
+PlantCARE_2543	CGTCA-motif	CGTCA	1408	5	+	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_2543	CTAG-motif	ACTAGCAGAA	1391	9	-	Avena sativa	
+PlantCARE_2543	CTAG-motif	ACTAGCAGAA	1881	9	-	Avena sativa	
+PlantCARE_2543	ABRE3a	TACGTG	1969	6	+	Zea mays	
+PlantCARE_2543	WRE3	CCACCT	1379	6	+	Pisum sativum	
+PlantCARE_2543	TGA-element	AACGAC	1684	6	-	Brassica oleracea	auxin-responsive element
+PlantCARE_2543	STRE	AGGGG	1415	5	-	Arabidopsis thaliana	
+PlantCARE_2543	A-box	CCGTCC	1194	6	+	Petroselinum crispum	cis-acting regulatory element
+PlantCARE_2543	TCT-motif	TCTTAC	1184	6	-	Arabidopsis thaliana	part of a light responsive element
+PlantCARE_2543	Myb	TAACTG	1877	6	-	Arabidopsis thaliana	
+PlantCARE_2543	WUN-motif	AAATTACT	1109	8	-	Nicotiana glutinosa	
+PlantCARE_2543	LTR	CCGAAA	682	6	-	Hordeum vulgare	cis-acting element involved in low-temperature responsiveness
+PlantCARE_2543	ABRE4	CACGTA	1969	6	-	Zea mays	
+PlantCARE_2543	MYC	CATTTG	299	6	-	Arabidopsis thaliana	
+PlantCARE_2543	MYC	CATTTG	537	6	+	Arabidopsis thaliana	
+PlantCARE_2543	MYC	CAATTG	720	6	+	Arabidopsis thaliana	
+PlantCARE_2543	MYC	CAATTG	1896	6	-	Arabidopsis thaliana	
+PlantCARE_2543	G-Box	CACGTT	365	6	-	Pisum sativum	cis-acting regulatory element involved in light responsiveness
+PlantCARE_2543	G-Box	CACGTT	1204	6	+	Pisum sativum	cis-acting regulatory element involved in light responsiveness
+PlantCARE_2543	AE-box	AGAAACAA	518	8	-	Arabidopsis thaliana	part of a module for light response
+PlantCARE_2543	AE-box	AGAAACTT	1589	8	-	Arabidopsis thaliana	part of a module for light response
+PlantCARE_2543	AE-box	AGAAACTT	1622	8	-	Arabidopsis thaliana	part of a module for light response
+PlantCARE_2543	ARE	AAACCA	560	6	-	Zea mays	cis-acting regulatory element essential for the anaerobic induction
+PlantCARE_2543	ARE	AAACCA	1841	6	-	Zea mays	cis-acting regulatory element essential for the anaerobic induction

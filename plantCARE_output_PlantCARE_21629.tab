@@ -1,0 +1,148 @@
+PlantCARE_21629	Myc	TCTCTTA	242	7	+	Arabidopsis thaliana	
+PlantCARE_21629	TCCC-motif	TCTCCCT	1632	7	+	Spinacia oleracea	part of a light responsive element
+PlantCARE_21629	TATA-box	TATAAAA	46	7	-	Pisum sativum	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	taTATAAAtc	47	9	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATAA	48	5	-	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATA	49	4	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	ATTATA	157	6	+	Brassica napus	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATAA	158	5	-	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATA	159	4	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATATAA	246	7	-	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATATA	247	6	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	ATATAT	248	6	+	Brassica napus	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATATA	249	6	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	ATATAA	250	6	+	Brassica oleracea	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATA	251	4	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TACAAAA	344	7	+	Oryza sativa	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	ATATAT	357	6	+	Brassica napus	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATATA	358	6	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	ATATAA	359	6	+	Brassica oleracea	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATA	360	4	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	ATATAT	555	6	+	Brassica napus	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATATA	556	6	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	ATATAT	557	6	+	Brassica napus	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATA	558	4	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATTTAAA	560	8	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATTTAAA	562	8	-	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATAAATA	676	8	-	Daucus carota	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATAAAT	677	7	-	Brassica juncea	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATAAA	678	6	-	Helianthus annuus	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATAA	679	5	-	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATA	680	4	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATACA	733	6	-	Helianthus annuus	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATA	735	4	+	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATA	1118	4	-	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATA	1482	4	-	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	ATATAA	1528	6	+	Brassica oleracea	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATA	1529	4	-	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	ATATAA	1902	6	+	Brassica oleracea	core promoter element around -30 of transcription start
+PlantCARE_21629	TATA-box	TATA	1903	4	-	Arabidopsis thaliana	core promoter element around -30 of transcription start
+PlantCARE_21629	ARE	AAACCA	1210	6	-	Zea mays	cis-acting regulatory element essential for the anaerobic induction
+PlantCARE_21629	G-Box	CACGTT	855	6	-	Pisum sativum	cis-acting regulatory element involved in light responsiveness
+PlantCARE_21629	G-Box	CACGTG	1472	6	-	Pisum sativum	cis-acting regulatory element involved in light responsiveness
+PlantCARE_21629	Unnamed__1	CGTGG	857	5	+	Zea mays	
+PlantCARE_21629	Unnamed__1	CGTGG	876	5	-	Zea mays	
+PlantCARE_21629	Unnamed__1	CGTGG	1138	5	-	Zea mays	
+PlantCARE_21629	WUN-motif	AAATTTCTT	381	9	+	Nicotiana glutinosa	
+PlantCARE_21629	GCN4_motif	TGAGTCA	427	7	-	Oryza sativa	cis-regulatory element involved in endosperm expression
+PlantCARE_21629	MYC	CATTTG	315	6	-	Arabidopsis thaliana	
+PlantCARE_21629	MYC	CAATTG	442	6	+	Arabidopsis thaliana	
+PlantCARE_21629	MYC	CAATTG	1158	6	-	Arabidopsis thaliana	
+PlantCARE_21629	MYC	CATTTG	1206	6	+	Arabidopsis thaliana	
+PlantCARE_21629	G-box	CACGAC	877	6	+	Zea mays	cis-acting regulatory element involved in light responsiveness
+PlantCARE_21629	G-box	ACACGTGT	1471	8	-	Brassica napus	cis-acting regulatory element involved in light responsiveness
+PlantCARE_21629	G-box	CACGTG	1472	6	-	Arabidopsis thaliana	cis-acting regulatory element involved in light responsiveness
+PlantCARE_21629	G-box	CACGTC	1606	6	+	Zea mays	cis-acting regulatory element involved in light responsiveness
+PlantCARE_21629	AT~TATA-box	TATATA	247	6	+	Arabidopsis thaliana	
+PlantCARE_21629	AT~TATA-box	TATATA	249	6	+	Arabidopsis thaliana	
+PlantCARE_21629	AT~TATA-box	TATATA	358	6	+	Arabidopsis thaliana	
+PlantCARE_21629	AT~TATA-box	TATATA	556	6	+	Arabidopsis thaliana	
+PlantCARE_21629	Unnamed__4	CTCC	110	4	+	Petroselinum hortense	
+PlantCARE_21629	Unnamed__4	CTCC	419	4	-	Petroselinum hortense	
+PlantCARE_21629	Unnamed__4	CTCC	840	4	-	Petroselinum hortense	
+PlantCARE_21629	Unnamed__4	CTCC	1083	4	+	Petroselinum hortense	
+PlantCARE_21629	Unnamed__4	CTCC	1131	4	+	Petroselinum hortense	
+PlantCARE_21629	Unnamed__4	CTCC	1588	4	+	Petroselinum hortense	
+PlantCARE_21629	Unnamed__4	CTCC	1633	4	+	Petroselinum hortense	
+PlantCARE_21629	Unnamed__4	CTCC	1645	4	+	Petroselinum hortense	
+PlantCARE_21629	Unnamed__4	CTCC	1670	4	+	Petroselinum hortense	
+PlantCARE_21629	Unnamed__4	CTCC	1741	4	+	Petroselinum hortense	
+PlantCARE_21629	Unnamed__4	CTCC	1853	4	+	Petroselinum hortense	
+PlantCARE_21629	Unnamed__4	CTCC	1860	4	+	Petroselinum hortense	
+PlantCARE_21629	Unnamed__4	CTCC	1935	4	+	Petroselinum hortense	
+PlantCARE_21629	ABRE	ACGTG	856	5	+	Arabidopsis thaliana	cis-acting element involved in the abscisic acid responsiveness
+PlantCARE_21629	ABRE	CACGTG	1472	6	-	Arabidopsis thaliana	cis-acting element involved in the abscisic acid responsiveness
+PlantCARE_21629	ABRE	ACGTG	1473	5	+	Arabidopsis thaliana	cis-acting element involved in the abscisic acid responsiveness
+PlantCARE_21629	ABRE	ACGTG	1606	5	-	Arabidopsis thaliana	cis-acting element involved in the abscisic acid responsiveness
+PlantCARE_21629	GT1-motif	GGTTAAT	612	7	+	Avena sativa	light responsive element
+PlantCARE_21629	GT1-motif	GGTTAA	956	6	+	Arabidopsis thaliana	light responsive element
+PlantCARE_21629	ATC-motif	AGTAATCT	1918	8	-	Spinacia oleracea	part of a conserved DNA module involved in light responsiveness
+PlantCARE_21629		motif_sequence	103	4	-	organism	short_function
+PlantCARE_21629		motif_sequence	214	4	+	organism	short_function
+PlantCARE_21629		motif_sequence	318	4	+	organism	short_function
+PlantCARE_21629		motif_sequence	486	4	-	organism	short_function
+PlantCARE_21629		motif_sequence	815	4	-	organism	short_function
+PlantCARE_21629		motif_sequence	840	4	-	organism	short_function
+PlantCARE_21629		motif_sequence	847	4	-	organism	short_function
+PlantCARE_21629		motif_sequence	1418	4	-	organism	short_function
+PlantCARE_21629		motif_sequence	1631	4	+	organism	short_function
+PlantCARE_21629		motif_sequence	1668	4	+	organism	short_function
+PlantCARE_21629		motif_sequence	1933	4	+	organism	short_function
+PlantCARE_21629	MYB	CAACCA	1135	6	+	Arabidopsis thaliana	
+PlantCARE_21629	MYB	CAACCA	1796	6	-	Arabidopsis thaliana	
+PlantCARE_21629	TGACG-motif	TGACG	1544	5	+	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_21629	TGACG-motif	TGACG	1547	5	-	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_21629	Myb	TAACTG	774	6	+	Arabidopsis thaliana	
+PlantCARE_21629	Myb	CAACTG	1231	6	-	Arabidopsis thaliana	
+PlantCARE_21629	Box 4	ATTAAT	583	6	+	Petroselinum crispum	part of a conserved DNA module involved in light responsiveness
+PlantCARE_21629	Box 4	ATTAAT	1282	6	-	Petroselinum crispum	part of a conserved DNA module involved in light responsiveness
+PlantCARE_21629	CGTCA-motif	CGTCA	1544	5	-	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_21629	CGTCA-motif	CGTCA	1547	5	+	Hordeum vulgare	cis-acting regulatory element involved in the MeJA-responsiveness
+PlantCARE_21629	CAAT-box	CAAAT	69	5	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAAT	315	5	+	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAT	369	4	-	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CAAAT	374	5	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAT	408	4	+	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CAAAT	410	5	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAAT	415	5	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAAT	424	5	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAT	432	4	+	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CAAT	442	4	+	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CCAAT	444	5	-	Arabidopsis thaliana	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAT	470	4	-	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CAAAT	520	5	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAT	533	4	+	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CAAT	553	4	+	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CAAAT	626	5	+	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CCAAT	784	5	+	Arabidopsis thaliana	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAT	785	4	+	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CCAAT	802	5	-	Arabidopsis thaliana	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAT	898	4	+	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CAAT	938	4	+	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CAAAT	1027	5	+	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAAT	1125	5	+	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAT	1158	4	+	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CAAT	1160	4	-	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CAAAT	1207	5	-	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAT	1251	4	+	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CAAAT	1322	5	+	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAT	1332	4	-	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CAAT	1362	4	-	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CAAT	1404	4	+	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CCAAT	1428	5	-	Arabidopsis thaliana	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAT	1533	4	-	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CAAT	1551	4	-	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CCAAT	1764	5	+	Arabidopsis thaliana	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	CAAT-box	CAAT	1765	4	+	Nicotiana glutinosa	
+PlantCARE_21629	CAAT-box	CAAAT	1930	5	+	Pisum sativum	common cis-acting element in promoter and enhancer regions
+PlantCARE_21629	W box	TTGACC	1239	6	-	Arabidopsis thaliana	
+PlantCARE_21629	as-1	TGACG	1544	5	+	Arabidopsis thaliana	
+PlantCARE_21629	as-1	TGACG	1547	5	-	Arabidopsis thaliana	
+PlantCARE_21629	box S	AGCCACC	906	7	-	Arabidopsis thaliana	
+PlantCARE_21629	WRE3	CCACCT	1956	6	-	Pisum sativum	
+PlantCARE_21629	I-box	gGATAAGGTG	1951	9	+	Zea mays	part of a light responsive element
+PlantCARE_21629	F-box	CTATTCTCATT	1640	10	+	Lycopersicon esculentum	
+PlantCARE_21629	LTR	CCGAAA	749	6	+	Hordeum vulgare	cis-acting element involved in low-temperature responsiveness
+PlantCARE_21629	AAGAA-motif	gGTAAAGAAA	384	9	-	Avena sativa	
+PlantCARE_21629	AAGAA-motif	GAAAGAA	1734	7	-	Avena sativa	
+PlantCARE_21629	MBS	CAACTG	1231	6	-	Arabidopsis thaliana	MYB binding site involved in drought-inducibility
